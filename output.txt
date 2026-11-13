@@ -1,0 +1,9 @@
+PS E:\airtribe\expense_analyzer> node .\analyser.js
+sync read: 0.282ms
+First expense: { category: 'food', amount: 250 }
+Remaining: 700
+Remaining: 200
+Over budget by 200
+Loop finished
+Async read finished
+PS E:\airtribe\expense_analyzer>
